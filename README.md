@@ -132,7 +132,7 @@ Example:
 
 ## 👨‍💻 Author
 
-Your Name\
+Bakhytzhan Bekarys\
 Python Backend Developer
 
 ------------------------------------------------------------------------
