@@ -130,6 +130,13 @@ Example:
 
 ------------------------------------------------------------------------
 
+## ❓ About
+
+This CLI task manager follows the best practices from:
+🔗 https://roadmap.sh/projects/task-tracker
+
+------------------------------------------------------------------------
+
 ## 👨‍💻 Author
 
 Bakhytzhan Bekarys\
